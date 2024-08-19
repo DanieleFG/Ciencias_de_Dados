@@ -14,6 +14,13 @@ Usos:
 * Eficiência computacional;
 * Prevenção de overfitting
 
+
+        O que é overfitting?
+
+        No campo do aprendizado de máquina, o overfitting se manifesta quando um algoritmo se adapta excessivamente ou até mesmo de forma precisa aos dados de treinamento, levando a um modelo que não consegue fazer previsões ou conclusões precisas com outros dados que não sejam os de treinamento. 
+
+        O overfitting anula o propósito do modelo de aprendizado de máquina. A capacidade de generalização de um modelo para novos dados é o que nos permite utilizar algoritmos de aprendizado de máquina diariamente para realizar previsões e classificar dados.
+
 Tipos de aprendizado indutivo:
 
 **Aprendizado Supervisionado**
