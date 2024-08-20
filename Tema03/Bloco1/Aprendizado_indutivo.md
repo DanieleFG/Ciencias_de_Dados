@@ -1,6 +1,6 @@
 # Aprendizado Indutivo
 
-processo pelo qual um algoritmo ou modelo de IA extrai padrões, tendências e relações a partir de exemplos especificos ou dados obsercados, para então aplicar esse conhecimento  em novas situações. 
+processo pelo qual um algoritmo ou modelo de IA extrai padrões, tendências e relações a partir de exemplos especificos ou dados observados, para então aplicar esse conhecimento  em novas situações. 
 Dada uma coleção de exemplos de f , retorna uma função h que se aproxima de f.
 
 **Navalha de Occam**
@@ -25,7 +25,7 @@ Tipos de aprendizado indutivo:
 
 **Aprendizado Supervisionado**
 
-* Regraçã:
+* Regração:
 
 Descrição: A tarefa é prever um valor numérico contínuo com base nas entradas fornecidas. O modelo é treinado para encontrar a relação entre as variáveis de entrada e a saída numérica.
 Exemplo: Previsão de preços de imóveis, previsão de vendas futuras, estimativa da temperatura de uma cidade.
