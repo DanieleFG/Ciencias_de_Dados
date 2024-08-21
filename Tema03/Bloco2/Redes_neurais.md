@@ -14,3 +14,4 @@ Exemplos de uso de RNA:
 
 Percepton - 1º neurônio
 
+Cuso ompleto https://www.youtube.com/watch?v=0chlwnUKoHA&list=PLZ3V9XyVA529kELNCTwtV46fTbpzHAcrd&index=3
