@@ -1,0 +1,290 @@
+Prepare-se! Chegou a hora de você testar o conhecimento adquirido nesta disciplina. A Avaliação Virtual (AV) é composta por questões objetivas e corresponde a 100% da média final. Você tem até cinco tentativas para “Enviar” as questões, que são automaticamente corrigidas. Você pode responder as questões consultando o material de estudos, mas lembre-se de cumprir o prazo estabelecido. Boa prova!
+1)
+
+Os elementos PageRank, A* (A estrela) e BFS (Busca em Largura) são conceitos fundamentais em ciência da computação e têm aplicações essenciais em várias áreas, incluindo busca na web, otimização de rotas e resolução de problemas em inteligência artificial. Cada um desses elementos desempenha um papel distinto na busca e organização de informações, desde classificar páginas da web até encontrar o caminho mais curto em um grafo ponderado.
+
+Leia e associe as informações indicadas por letras e números conforme as definições e princípios que seguem.
+
+I. PageRank.
+II. A* (A estrela).
+III. BFS (Busca em Largura).
+
+A. Trata-se de um algoritmo de busca que começa no nó raiz e explora todos os nós vizinhos antes de avançar para os nós a jusante.
+B. Trata-se de um algoritmo desenvolvido pelo Google que classifica as páginas da web nos resultados de busca. Ele se baseia na ideia de que as páginas são importantes se forem vinculadas por outras páginas importantes.
+C. Trata-se de um algoritmo de busca usado em muitos campos, incluindo inteligência artificial, para encontrar o caminho mais curto entre dois pontos em um grafo ponderado.
+
+Assinale a alternativa que traz a associação correta entre as duas listas:
+
+Alternativas:
+
+    I-C; II-B; III-A.
+
+    I-C; II-A; III-B.
+
+    I-B; II-C; III-A.CORRETO
+
+    I-B; II-A; III-C.
+
+    I-A; II-C; III-B.
+
+Código da questão: 81159
+2)
+
+A inteligência artificial generativa (IA generativa) é um campo empolgante da inteligência artificial que se concentra em criar conteúdo original, como imagens, texto e até música. Uma das abordagens mais populares na IA generativa envolve o uso de Redes Neurais Generativas Adversariais, ou GANs. As GANs consistem em dois componentes principais, o gerador e o discriminador, que operam de forma adversarial, resultando em um aprimoramento contínuo da capacidade de gerar amostras convincentes.
+
+A partir desse contexto, leia e associe as informações indicadas por letras e números de acordo com as definições a seguir:
+
+I. Redes Neurais Generativas Adversariais (GANs).
+
+II. Gerador (Generator).
+
+III. Discriminador (Discriminator).
+
+A. Esse elemento é uma rede neural responsável por criar exemplos de dados sintéticos. Ele aceita entradas na forma de vetores de números aleatórios e gera saídas que se assemelham a exemplos reais do conjunto de dados de treinamento.
+
+B. Esses elementos são uma arquitetura de rede neural utilizada em inteligência artificial e aprendizado profundo. Elas consistem em duas redes principais, o gerador e o discriminador, que funcionam de forma adversarial.
+
+C. Esse elemento recebe como entrada uma amostra de dados e estima a probabilidade de ser uma amostra real ou gerada. É treinado com um conjunto de dados que contém exemplos reais e gerados, ajustando seus parâmetros para maximizar a capacidade de discriminar corretamente entre as duas classes.
+
+Assinale a alternativa que traz a associação correta entre as duas listas:
+
+Alternativas:
+
+    I-C; II-A; III-B.
+
+    I-B; II-A; III-C.CORRETO
+
+    I-B; II-C; III-A.
+
+    I-A; II-C; III-B.
+
+    I-C; II-B; III-A.
+
+Código da questão: 81180
+3)
+
+No cenário atual, a Inteligência Artificial (IA) desempenha um papel cada vez mais relevante em várias indústrias e campos de aplicação. Com sua capacidade de processar e analisar grandes volumes de dados, a IA traz inúmeras possibilidades e aprimoramentos em áreas diversas, desde a saúde até o setor financeiro, mobilidade e atendimento ao cliente.
+
+A partir desse contexto, analise as assertivas a seguir e identifique as corretas:
+
+I. Na área da saúde, a IA é usada para diagnósticos mais precisos, graças à sua capacidade de analisar imagens médicas e identificar anomalias, como lesões e tumores, com alta precisão. Isso leva a diagnósticos precoces e tratamentos mais eficazes.
+
+II. Na indústria, a IA é empregada para otimizar a produção e a manutenção, monitorando o desempenho de equipamentos e prevendo falhas. Isso resulta em uma redução de custos e na prevenção de paradas não programadas.
+
+III. No setor financeiro, a IA desempenha um papel crucial na análise de dados em tempo real para prever tendências de mercado, apoiando decisões de investimento e gerenciamento de riscos. Ela também é eficaz na detecção de fraudes.
+
+IV. Na mobilidade, a IA tem um impacto limitado, principalmente no desenvolvimento de veículos autônomos. No entanto, ainda não tem sido uma ferramenta eficaz para melhorar a segurança no trânsito ou reduzir congestionamentos.
+
+V. Em atendimento ao cliente, a IA não desempenha um papel significativo, uma vez que os sistemas baseados em IA são incapazes de fornecer suporte personalizado e ainda não conseguem compreender a linguagem natural dos clientes.
+
+São verdadeiras:
+
+Alternativas:
+
+    I, II e III, apenas.CORRETO
+
+    I e IV, apenas.
+
+    III e IV, apenas.
+
+    II e IV, apenas.
+
+    II e III, apenas.
+
+Código da questão: 81155
+4)
+
+Em termos de hardware, uma infraestrutura robusta é fundamental para suportar as demandas computacionais intensivas da IA. Isso envolve a disponibilidade de servidores potentes e escaláveis, __________________ ou ____________ especializadas em acelerar os cálculos necessários para treinar e executar modelos de IA. Por exemplo, empresas que desejam implementar um sistema de reconhecimento de imagem baseado em IA podem precisar de __________ equipados com GPUs para processar grandes volumes de dados de imagem em tempo hábil
+
+Assinale a alternativa que completa adequadamente as lacunas:
+
+Alternativas:
+
+    Servidores, unidades
+    de processamento central (CPUs), data centers.
+
+    Processadores,
+    aplicativos móveis, servidores.
+
+    TPUs, Inteligência
+    Artificial, memória RAM.
+
+    unidades de processamento gráfico (GPUs); unidades de processamento
+    tensorial (TPUs); servidores.CORRETO
+
+    GPUs, redes neurais,
+    Processadores.
+
+Código da questão: 81171
+5)
+
+A implantação de serviços de IA é um processo que envolve várias etapas essenciais para garantir o sucesso da integração da inteligência artificial em uma organização.
+
+Essas etapas são fundamentais para garantir que a IA possa ser usada de maneira eficaz e eficiente. No processo de implantação de serviços de IA, selecione a alternativa que contém algumas das etapas fundamentais a serem consideradas:
+
+Alternativas:
+
+    O número de
+    funcionários da organização.
+
+    O tamanho da equipe
+    de TI responsável.
+
+    A escolha do local de
+    hospedagem para os dados.
+
+    As diretrizes de
+    marca da empresa.
+
+    A seleção e treinamento
+    do modelo de IA.CORRETO
+
+Código da questão: 81170
+6)
+
+Um dos conceitos fundamentais na IA é o _______________. Esse princípio, trata-se de uma abordagem que permite aos sistemas de IA adquirirem conhecimento e melhorarem seu desempenho por meio da_________ . Em vez de serem programados explicitamente para realizar uma tarefa, esse recurso deve ser treinado com base em ____________ que lhes permitem aprender e se adaptar.
+
+Assinale a alternativa que completa adequadamente as lacunas:
+
+Alternativas:
+
+    Dados, aprendizado por reforço, visão computacional.
+
+    Internet das Coisas, aprendizado profundo, processamento de texto.
+
+    Experiência do usuário, processamento de imagem, aprendizado
+    supervisionado.
+
+    Processamento de linguagem natural, aprendizado profundo, redes neurais.
+
+    aprendizado de máquina; experiência; dados e
+    algoritmos.CORRETO
+
+Código da questão: 81152
+7)
+
+A busca desempenha um papel fundamental em muitos domínios, incluindo a resolução de problemas em processamento de linguagem natural, engenharia de software e robótica.
+
+A partir desse contexto, analise as afirmativas a seguir e assinale-as com V (verdadeiro) ou F (falso):
+
+(   ) As estratégias e algoritmos de busca são amplamente aplicáveis em diferentes áreas, como processamento de linguagem natural, engenharia de software e robótica.
+
+(   ) Algoritmos de busca, como o algoritmo de busca em profundidade (DFS), são comumente usados em sistemas de recomendação de filmes baseados em filtragem colaborativa.
+
+(   ) O DFS, ao explorar o espaço de recomendações de filmes, inicia a partir de um filme inicial e segue conexões com base nas preferências do usuário e avaliações de outros usuários.
+
+(   ) O DFS é ineficiente em sistemas de recomendação de filmes, pois explora todas as possíveis recomendações.
+
+(   ) Algoritmos de busca são uma maneira eficaz de encontrar recomendações de filmes em sistemas de filtragem colaborativa.
+
+Assinale a alternativa
+que contenha a sequência correta de V e F:
+
+Alternativas:
+
+    V – V – V – F – F.
+
+    V – V – V – V – F.
+
+    V – V – F – V – F.INCORRETO
+
+    F – F – V – F – V.
+
+    F – V – F – V – F.
+
+Código da questão: 81158
+8)
+
+As redes neurais generativas adversariais (GANs) são um modelo fundamental no campo da inteligência artificial, usado para gerar dados sintéticos que se assemelham a exemplos reais. Dentro de uma GAN, o gerador e o discriminador desempenham papéis cruciais.
+
+A partir desse contexto, analise as afirmativas a seguir e assinale-as com V (verdadeiro) ou F (falso):
+
+(   ) O gerador é responsável por criar exemplos de dados sintéticos a partir de um espaço latente de baixa dimensionalidade.
+
+(   ) O objetivo do gerador é aprender a mapear o espaço latente para o espaço dos dados reais.
+
+(   ) O discriminador é projetado para criar exemplos reais e gerados pelo gerador.
+
+(   ) O discriminador é treinado apenas com exemplos reais.
+
+(   ) O discriminador é uma rede neural treinada para maximizar a capacidade de produzir amostras geradas.
+
+Assinale a alternativa
+que contenha a sequência correta de V e F:
+
+Alternativas:
+
+    V – F – V – V – F.
+
+    V – V – F – V – F.
+
+    V – V – F – F – F.CORRETO
+
+    V – V – V – V – F.
+
+    F – V – F – V – F.
+
+Código da questão: 81179
+9)
+
+A aprendizagem estatística é uma área fundamental na inteligência artificial, permitindo que as máquinas aprendam com dados e tomem decisões embasadas em inferências estatísticas. Avaliar o desempenho dos modelos é crucial para aprimorar o aprendizado de máquinas.
+
+A partir desse contexto, analise as afirmativas a seguir e assinale-as com V (verdadeiro) ou F (falso):
+
+(   ) Métricas estatísticas, como acurácia, precisão, revocação e F1-score são usadas para avaliar o desempenho de modelos de aprendizagem estatística.
+
+(   ) A validação cruzada k-fold é uma técnica que ajuda a avaliar a capacidade de generalização dos modelos de aprendizagem estatística.
+
+(   ) O overfitting ocorre quando o modelo de aprendizagem estatística não se ajusta bem aos dados de treinamento.
+
+(   ) A aprendizagem estatística é uma área da IA que não lida com modelos probabilísticos ou regressão linear.
+
+(   ) A aprendizagem estatística não tem relevância na criação de sistemas de IA precisos e confiáveis.
+
+Assinale a alternativa
+que contenha a sequência correta de V e F:
+
+Alternativas:
+
+    V – V – V – V – F.
+
+    F – V – F – V – F.
+
+    V – V – V – F – F.CORRETO
+
+    F – F – V – F – V.
+
+    V – V – F – V – F.
+
+Código da questão: 81164
+10)
+
+Redes Neurais Convolucionais (CNNs), Modelos Generativos Adversariais (GANs) e GPT-3 (Generative Pre-trained Transformer 3) são conceitos essenciais no campo da Inteligência Artificial (IA) e têm um papel significativo em várias aplicações modernas.
+
+A partir desse contexto, leia e associe as informações indicadas por letras e números de forma correta:
+
+I. Redes Neurais Convolucionais (CNNs).
+II. Modelos Generativos Adversariais (GANs).
+III. GPT-3 (Generative Pre-trained Transformer 3).
+
+A. Trata-se de um tipo especial de rede neural projetado para processar dados que têm uma estrutura de grade, como imagens ou sequências de tempo. Elas se destacam em tarefas de visão computacional, como classificação de imagens e detecção de objetos.
+
+B. Trata-se de uma arquitetura de rede neural que consiste em duas partes principais: o gerador e o discriminador. Essas redes são treinadas em conjunto, com o gerador produzindo dados falsos e o discriminador tentando distingui-los dos dados reais.
+
+C. Trata-se de um dos modelos de linguagem mais avançados na área de Processamento de Linguagem Natural (NLP). Ele é um tipo de modelo de IA que foi pré-treinado em vastas quantidades de texto e pode ser afinado para várias tarefas de processamento de linguagem.
+
+Assinale a alternativa que traz a associação correta entre as duas listas:
+
+Alternativas:
+
+    I-C; II-B; III-A.
+
+    I-A; II-B; III-C.CORRETO
+
+    I-B; II-A; III-C.
+
+    I-A; II-C; III-B.
+
+    I-C; II-A; III-B.
+
+Código da questão: 81154
