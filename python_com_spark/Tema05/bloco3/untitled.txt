@@ -1,0 +1,7 @@
+'angry' :  'raiva',
+'disgust' :  'nojo',
+'fear' :  'medo',
+'happy' :  'felicidade',
+'sad' :  'tristeza',
+'surprise' :  'surpresa',
+'neutral' :  'neutro',
